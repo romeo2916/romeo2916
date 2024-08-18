@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @romeo2916 aka Rami
+- 👋 Hi, I’m Rami
 - 👀 I’m new to programming, interested in ML
-- 🌱 I’m currently learning c++ and python
+- 🌱 currently learning c++ and python
 
 <!---
 romeo2916/romeo2916 is a special repository because its `README.md` (this file) appears on your GitHub profile.
